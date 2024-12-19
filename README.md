@@ -1,4 +1,9 @@
-## Hi there 👋
+### My name is Aleksand. I am a frontend developer.
+<div id="badges">
+  <a href="https://t.me/bumbu5571">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram Badge" width='70px'/>
+  </a>
+</div>
 
 <!--
 **bumbu5571/bumbu5571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
