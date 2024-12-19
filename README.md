@@ -10,7 +10,7 @@
 ---
 ##### Three.js / demo weapon tarkov
   <a href="https://bumbu5571.github.io/demoTarkov/" >
-   <img src="https://i.ibb.co/y4zdq8q/image.png" alt="img" border="0" width='1280px' />
+   <img src="https://i.ibb.co/6XKrF4F/image.png" alt="img" border="0" width='600px ' />
   </a>
 
 ## My tech stack
