@@ -8,7 +8,7 @@
 ### My projects
 
 ---
-##### Three.js / demo weapon tarkov
+##### Three.js, React + TS + Vite / demo weapon tarkov
   <a href="https://bumbu5571.github.io/demoTarkov/" >
    <img src="https://i.ibb.co/6XKrF4F/image.png" alt="img" border="0" width='600px ' />
   </a>
