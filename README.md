@@ -13,6 +13,15 @@
    <img src="https://i.ibb.co/6XKrF4F/image.png" alt="img" border="0" width='600px ' />
   </a>
 
+#####  demo test task
+
+Исходный код проекта: https://github.com/bumbu5571/test_task/tree/dev
+
+<a href="https://bumbu5571.github.io/test_task/">
+  <img src="https://i.ibb.co/YpbNpMd/2025-01-21-11-39-47.png" alt="img" border="0" width='960px' height="540px" />
+  <img src="https://i.ibb.co/vJf2Cyw/2025-01-21-11-40-40.png" alt="img" border="0" width='320px ' height="568px" margin="0 auto" />
+</a>
+
 ## My tech stack
 
 <div id="stackBox">
