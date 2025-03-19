@@ -52,16 +52,23 @@
 
 #####  demo test task
 
-Исходный код проекта: https://github.com/bumbu5571/test_task/tree/dev
+<p>
+  Исходный код проекта: <a href="https://github.com/bumbu5571/test_task/tree/dev">
+    https://github.com/bumbu5571/test_task/tree/dev
+  </a>
+</p>
+<p>
+  Сайт демо-версия: <a href="https://bumbu5571.github.io/test_task/">https://bumbu5571.github.io/test_task/</a>
+</p>
 
-<a href="https://bumbu5571.github.io/test_task/">
-    <p align="center" width="100%">
-        <img src="https://i.ibb.co/YpbNpMd/2025-01-21-11-39-47.png" alt="img" border="0" width='960px' height="540px" />
-    </p>
-    <p align="center" width="100%">
-        <img src="https://i.ibb.co/vJf2Cyw/2025-01-21-11-40-40.png" alt="img" border="0" width='320px ' height="568px" a/>
-    </p>
-</a>
+
+<p align="center" width="100%">
+  <img src="https://i.ibb.co/YpbNpMd/2025-01-21-11-39-47.png" alt="img" border="0" width='960px' height="540px" />
+</p>
+<p align="center" width="100%">
+  <img src="https://i.ibb.co/vJf2Cyw/2025-01-21-11-40-40.png" alt="img" border="0" width='320px ' height="568px" a/>
+</p>
+
 
 ## Bookworm - Онлайн библиотека
 
@@ -74,7 +81,7 @@
 
 ##### Three.js, React + TS + Vite / demo weapon tarkov
 
-<p>Исходный код проекта: <a href="https://github.com/bumbu5571/demoTarkov/tree/main">https://github.com/bumbu5571/demoTarkov/tree/main</a>a></p>
+<p>Исходный код проекта: <a href="https://github.com/bumbu5571/demoTarkov/tree/main">https://github.com/bumbu5571/demoTarkov/tree/main</a></p>
 <p>Сайт демо-версия: <a href="https://bumbu5571.github.io/demoTarkov/">https://bumbu5571.github.io/demoTarkov/</a></p>
 
 <img src="https://i.ibb.co/6XKrF4F/image.png" alt="img" border="0" width='600px ' />
