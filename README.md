@@ -53,7 +53,7 @@
 
 ---
 
-####  demo test task
+####  1. demo test task
 
 <p>Исходный код проекта: <a href="https://github.com/bumbu5571/test_task/tree/dev">https://github.com/bumbu5571/test_task/tree/dev</a></p>
 <p>Демо-версия: <a href="https://bumbu5571.github.io/test_task/">https://bumbu5571.github.io/test_task/</a></p>
@@ -65,9 +65,7 @@
   <img src="https://i.ibb.co/vJf2Cyw/2025-01-21-11-40-40.png" alt="Демонстрация Test task (мобильный вид)" border="0" width='320px ' height="568px" a/>
 </p>
 
-___
-
-#### Bookworm - Онлайн библиотека
+#### 2. Bookworm - Онлайн библиотека
 
 Исходный код проекта: https://github.com/bumbu5571/Bookworm
 
@@ -76,9 +74,7 @@ ___
     <img src="https://i.ibb.co/SD00ChvH/2025-03-18-18-41-44.png" alt="Главная страница Bookworm (с регистрацией)" border="0" width='400px' />
 </div>
 
-___
-
-#### Three.js, React + TS + Vite / demo weapon tarkov
+#### 3. Three.js, React + TS + Vite / demo weapon tarkov
 
 <p>Исходный код проекта: <a href="https://github.com/bumbu5571/demoTarkov/tree/main">https://github.com/bumbu5571/demoTarkov/tree/main</a></p>
 <p>Демо-версия: <a href="https://bumbu5571.github.io/demoTarkov/">https://bumbu5571.github.io/demoTarkov/</a></p>
