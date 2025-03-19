@@ -65,18 +65,18 @@
   <img src="https://i.ibb.co/vJf2Cyw/2025-01-21-11-40-40.png" alt="Демонстрация Test task (мобильный вид)" border="0" width='320px ' height="568px" a/>
 </p>
 
-<hr style="width: 50%; border: none; border-top: 1px solid #ccc;">
+***
 
 #### Bookworm - Онлайн библиотека
 
 Исходный код проекта: https://github.com/bumbu5571/Bookworm
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex;">
     <img src="https://i.ibb.co/JwBT5yPt/2025-03-18-18-40-04.png" alt="Главная страница Bookworm (без регистрации)" border="0" width='400px' style="margin-right: 10px;" />
     <img src="https://i.ibb.co/SD00ChvH/2025-03-18-18-41-44.png" alt="Главная страница Bookworm (с регистрацией)" border="0" width='400px' />
 </div>
 
-<hr style="width: 50%; border: none; border-top: 1px solid #ccc;">
+***
 
 #### Three.js, React + TS + Vite / demo weapon tarkov
 
