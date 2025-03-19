@@ -1,6 +1,6 @@
 ### My name is Aleksand. I am a frontend developer.
 <div id="badges">
-  <a href="https://t.me/bumbu5571">
+  <a href="https://t.me/Alexxx5571">
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram Badge" width='70px'/>
   </a>
 </div>
@@ -72,13 +72,9 @@
     <img src="https://i.ibb.co/SD00ChvH/2025-03-18-18-41-44.png" alt="Главная страница Bookworm (с регистрацией)" border="0" width='400px' />
 </div>
 
-## Описание
-
-Bookworm - это веб-приложение для онлайн-библиотеки, позволяющее пользователям просматривать каталог книг, добавлять их в избранное, оставлять комментарии и создавать собственные книги.
-
 ##### Three.js, React + TS + Vite / demo weapon tarkov
 
-Исходный код проекта: https://github.com/bumbu5571/demoTarkov/tree/main
-Сайт демо-версия: https://bumbu5571.github.io/demoTarkov/
+<p>Исходный код проекта: <a href="https://github.com/bumbu5571/demoTarkov/tree/main">https://github.com/bumbu5571/demoTarkov/tree/main</a>a></p>
+<p>Сайт демо-версия: <a href="https://bumbu5571.github.io/demoTarkov/">https://bumbu5571.github.io/demoTarkov/</a></p>
 
 <img src="https://i.ibb.co/6XKrF4F/image.png" alt="img" border="0" width='600px ' />
