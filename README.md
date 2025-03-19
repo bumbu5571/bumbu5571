@@ -5,27 +5,6 @@
   </a>
 </div>
 
-### My projects
-
----
-##### Three.js, React + TS + Vite / demo weapon tarkov
-  <a href="https://bumbu5571.github.io/demoTarkov/" >
-   <img src="https://i.ibb.co/6XKrF4F/image.png" alt="img" border="0" width='600px ' />
-  </a>
-
-#####  demo test task
-
-Исходный код проекта: https://github.com/bumbu5571/test_task/tree/dev
-
-<a href="https://bumbu5571.github.io/test_task/">
-    <p align="center" width="100%">
-        <img src="https://i.ibb.co/YpbNpMd/2025-01-21-11-39-47.png" alt="img" border="0" width='960px' height="540px" />
-    </p>
-    <p align="center" width="100%">
-        <img src="https://i.ibb.co/vJf2Cyw/2025-01-21-11-40-40.png" alt="img" border="0" width='320px ' height="568px" a/>
-    </p>
-</a>
-
 ## My tech stack
 
 <div id="stackBox">
@@ -66,3 +45,40 @@
 
 ![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+
+### My projects
+
+---
+
+#####  demo test task
+
+Исходный код проекта: https://github.com/bumbu5571/test_task/tree/dev
+
+<a href="https://bumbu5571.github.io/test_task/">
+    <p align="center" width="100%">
+        <img src="https://i.ibb.co/YpbNpMd/2025-01-21-11-39-47.png" alt="img" border="0" width='960px' height="540px" />
+    </p>
+    <p align="center" width="100%">
+        <img src="https://i.ibb.co/vJf2Cyw/2025-01-21-11-40-40.png" alt="img" border="0" width='320px ' height="568px" a/>
+    </p>
+</a>
+
+## Bookworm - Онлайн библиотека
+
+Исходный код проекта: https://github.com/bumbu5571/Bookworm
+
+<div style="display: flex;">
+    <img src="https://i.ibb.co/JwBT5yPt/2025-03-18-18-40-04.png" alt="Главная страница Bookworm (без регистрации)" border="0" width='400px' style="margin-right: 10px;" />
+    <img src="https://i.ibb.co/SD00ChvH/2025-03-18-18-41-44.png" alt="Главная страница Bookworm (с регистрацией)" border="0" width='400px' />
+</div>
+
+## Описание
+
+Bookworm - это веб-приложение для онлайн-библиотеки, позволяющее пользователям просматривать каталог книг, добавлять их в избранное, оставлять комментарии и создавать собственные книги.
+
+##### Three.js, React + TS + Vite / demo weapon tarkov
+
+Исходный код проекта: https://github.com/bumbu5571/demoTarkov/tree/main
+Сайт демо-версия: https://bumbu5571.github.io/demoTarkov/
+
+<img src="https://i.ibb.co/6XKrF4F/image.png" alt="img" border="0" width='600px ' />
