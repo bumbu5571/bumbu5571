@@ -5,9 +5,7 @@
   </a>
 </div>
 
-## My tech stack
-
----
+### My tech stack
 
 <div id="stackBox">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
