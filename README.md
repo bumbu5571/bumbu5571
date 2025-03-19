@@ -50,7 +50,7 @@
 
 ---
 
-#####  demo test task
+####  demo test task
 
 <p>
   Исходный код проекта: <a href="https://github.com/bumbu5571/test_task/tree/dev">
@@ -63,25 +63,25 @@
 
 
 <p align="center" width="100%">
-  <img src="https://i.ibb.co/YpbNpMd/2025-01-21-11-39-47.png" alt="img" border="0" width='960px' height="540px" />
+  <img src="https://i.ibb.co/YpbNpMd/2025-01-21-11-39-47.png" alt="Демонстрация Test task (полноэкранный вид)" border="0" width='960px' height="540px" />
 </p>
 <p align="center" width="100%">
-  <img src="https://i.ibb.co/vJf2Cyw/2025-01-21-11-40-40.png" alt="img" border="0" width='320px ' height="568px" a/>
+  <img src="https://i.ibb.co/vJf2Cyw/2025-01-21-11-40-40.png" alt="Демонстрация Test task (мобильный вид)" border="0" width='320px ' height="568px" a/>
 </p>
 
 
-## Bookworm - Онлайн библиотека
+#### Bookworm - Онлайн библиотека
 
 Исходный код проекта: https://github.com/bumbu5571/Bookworm
 
-<div style="display: flex;">
+<div style="display: flex; justify-content: center;">
     <img src="https://i.ibb.co/JwBT5yPt/2025-03-18-18-40-04.png" alt="Главная страница Bookworm (без регистрации)" border="0" width='400px' style="margin-right: 10px;" />
     <img src="https://i.ibb.co/SD00ChvH/2025-03-18-18-41-44.png" alt="Главная страница Bookworm (с регистрацией)" border="0" width='400px' />
 </div>
 
-##### Three.js, React + TS + Vite / demo weapon tarkov
+#### Three.js, React + TS + Vite / demo weapon tarkov
 
 <p>Исходный код проекта: <a href="https://github.com/bumbu5571/demoTarkov/tree/main">https://github.com/bumbu5571/demoTarkov/tree/main</a></p>
 <p>Сайт демо-версия: <a href="https://bumbu5571.github.io/demoTarkov/">https://bumbu5571.github.io/demoTarkov/</a></p>
 
-<img src="https://i.ibb.co/6XKrF4F/image.png" alt="img" border="0" width='600px ' />
+<img src="https://i.ibb.co/6XKrF4F/image.png" alt="Демонстрация demo weapon tarkov" border="0" width='600px ' />
