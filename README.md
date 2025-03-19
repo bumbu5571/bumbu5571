@@ -65,7 +65,7 @@
   <img src="https://i.ibb.co/vJf2Cyw/2025-01-21-11-40-40.png" alt="Демонстрация Test task (мобильный вид)" border="0" width='320px ' height="568px" a/>
 </p>
 
-***
+___
 
 #### Bookworm - Онлайн библиотека
 
@@ -76,7 +76,7 @@
     <img src="https://i.ibb.co/SD00ChvH/2025-03-18-18-41-44.png" alt="Главная страница Bookworm (с регистрацией)" border="0" width='400px' />
 </div>
 
-***
+___
 
 #### Three.js, React + TS + Vite / demo weapon tarkov
 
