@@ -70,8 +70,8 @@
 <p>Исходный код проекта: <a href="https://github.com/bumbu5571/GreenMind">https://github.com/bumbu5571/GreenMind</a></p>
 
 <div align="center" width="100%">
-   <img src="https://i.ibb.co/ymQmhvXf/company-DB1.png" alt="Страница пользователей GreenMind" border="0" width='400px' style="margin-right: 10px;" />
-   <img src="https://i.ibb.co/svSnD9tP/main-Company.gif" alt="Страница компаний GreenMind" border="0" width='400px' />
+   <img src="readme_images/pageUsers.gif" alt="Страница пользователей GreenMind" border="0" width='400px' style="margin-right: 10px;" />
+   <img src="readme_images/pageCompany.gif" alt="Страница компаний GreenMind" border="0" width='400px' />
 </div>
 
 #### 3. Bookworm - Онлайн библиотека
