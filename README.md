@@ -65,16 +65,25 @@
   <img src="https://i.ibb.co/vJf2Cyw/2025-01-21-11-40-40.png" alt="Демонстрация Test task (мобильный вид)" border="0" width='320px ' height="568px" a/>
 </div>
 
-#### 2. Bookworm - Онлайн библиотека
+####  2. GreenMind - веб-платформа, объединяющая пользователей и бизнес в целях устойчивого развития и охраны окружающей среды.
 
-Исходный код проекта: https://github.com/bumbu5571/Bookworm
+<p>Исходный код проекта: <a href="https://github.com/bumbu5571/GreenMind">https://github.com/bumbu5571/GreenMind</a></p>
+
+<div align="center" width="100%">
+   <img src="https://i.ibb.co/TxFX0ZNn/main-Users.gif" alt="Страница пользователей GreenMind" border="0" width='400px' />
+   <img src="https://i.ibb.co/272xL356/main-Company.gif" alt="Страница компаний GreenMind" border="0" width='400px' />
+</div>
+
+#### 3. Bookworm - Онлайн библиотека
+
+<p>Исходный код проекта: <a href="https://github.com/bumbu5571/Bookworm">https://github.com/bumbu5571/Bookworm</a></p>
 
 <div align="center" width="100%">
     <img src="https://i.ibb.co/JwBT5yPt/2025-03-18-18-40-04.png" alt="Главная страница Bookworm (без регистрации)" border="0" width='400px' style="margin-right: 10px;" />
     <img src="https://i.ibb.co/SD00ChvH/2025-03-18-18-41-44.png" alt="Главная страница Bookworm (с регистрацией)" border="0" width='400px' />
 </div>
 
-#### 3. Three.js, React + TS + Vite / demo weapon tarkov
+#### 4. Three.js, React + TS + Vite / demo weapon tarkov
 
 <p>Исходный код проекта: <a href="https://github.com/bumbu5571/demoTarkov/tree/main">https://github.com/bumbu5571/demoTarkov/tree/main</a></p>
 <p>Демо-версия: <a href="https://bumbu5571.github.io/demoTarkov/">https://bumbu5571.github.io/demoTarkov/</a></p>
