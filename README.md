@@ -79,7 +79,7 @@
 <p>Исходный код проекта: <a href="https://github.com/bumbu5571/Bookworm">https://github.com/bumbu5571/Bookworm</a></p>
 
 <div align="center" width="100%">
-    <img src="readme_images/bookworm0.gif" alt="Анимация навигации сайта" border="0" width='400px' style="margin-right: 10px;" />
+    <img src="https://github.com/bumbu5571/Bookworm/readme_images/bookworm0.gif" alt="Анимация навигации сайта" border="0" width='400px' style="margin-right: 10px;" />
     <img src="readme_images/bookworm1.gif" alt="Анимация создания книги" border="0" width='400px' />
 </div>
 
