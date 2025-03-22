@@ -61,8 +61,8 @@
 <p>Демо-версия: <a href="https://bumbu5571.github.io/test_task/">https://bumbu5571.github.io/test_task/</a></p>
 
 <div align="center" width="100%">
-  <img src="https://i.ibb.co/YpbNpMd/2025-01-21-11-39-47.png" alt="Демонстрация Test task (полноэкранный вид)" border="0" width='960px' height="540px" />
-  <img src="https://i.ibb.co/vJf2Cyw/2025-01-21-11-40-40.png" alt="Демонстрация Test task (мобильный вид)" border="0" width='320px ' height="568px" a/>
+  <img src="https://ibb.co/XrvB59Gd" alt="Демонстрация Test task (полноэкранный вид)" border="0" width='960px' height="540px" />
+  <img src="https://ibb.co/rGPYL2vt" alt="Демонстрация Test task (мобильный вид)" border="0" width='320px ' height="568px" a/>
 </div>
 
 ####  2. GreenMind - веб-платформа, объединяющая пользователей и бизнес в целях устойчивого развития и охраны окружающей среды.
