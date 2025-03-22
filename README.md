@@ -79,8 +79,8 @@
 <p>Исходный код проекта: <a href="https://github.com/bumbu5571/Bookworm">https://github.com/bumbu5571/Bookworm</a></p>
 
 <div align="center" width="100%">
-    <img src="https://i.ibb.co/JwBT5yPt/2025-03-18-18-40-04.png" alt="Главная страница Bookworm (без регистрации)" border="0" width='400px' style="margin-right: 10px;" />
-    <img src="https://i.ibb.co/SD00ChvH/2025-03-18-18-41-44.png" alt="Главная страница Bookworm (с регистрацией)" border="0" width='400px' />
+    <img src="readme_images/bookworm0.gif" alt="Анимация навигации сайта" border="0" width='400px' style="margin-right: 10px;" />
+    <img src="readme_images/bookworm1.gif" alt="Анимация создания книги" border="0" width='400px' />
 </div>
 
 #### 4. Three.js, React + TS + Vite / demo weapon tarkov
