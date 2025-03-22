@@ -62,7 +62,7 @@
 
 <div align="center" width="100%">
   <img src="readme_images/testTaskOnly0.gif" alt="Демонстрация Test task (полноэкранный вид)" border="0" width='400px' />
-  <img src="readme_images/testTaskOnly1.gif" alt="Демонстрация Test task (мобильный вид)" border="0" width='400px '/>
+  <img src="readme_images/testTaskOnly1.gif" alt="Демонстрация Test task (мобильный вид)" border="0" width='400px'/>
 </div>
 
 ####  2. GreenMind - веб-платформа, объединяющая пользователей и бизнес в целях устойчивого развития и охраны окружающей среды.
