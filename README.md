@@ -55,17 +55,26 @@
 
 ---
 
-####  1. Test task from Only
+####  1. Мега Сад | Питомник растений
+
+<p>Демонстрация проекта и описание функциональности: <a href="https://github.com/bumbu5571/mega_garden">https://github.com/bumbu5571/mega_garden</a></p>
+
+<div align="center" width="100%">
+  <img src="readme_images/mainPage.gif" alt="Главная страница Мега Сад" border="0" width='400px' style="margin-right: 10px;" />
+  <img src="readme_images/signupPage.gif" alt="Страница регистрации Мега Сад" border="0" width='400px'/>
+</div>
+
+####  2. Test task from Only
 
 <p>Исходный код проекта: <a href="https://github.com/bumbu5571/test_task/tree/dev">https://github.com/bumbu5571/test_task/tree/dev</a></p>
 <p>Демо-версия: <a href="https://bumbu5571.github.io/test_task/">https://bumbu5571.github.io/test_task/</a></p>
 
 <div align="center" width="100%">
-  <img src="readme_images/testTaskOnly0.gif" alt="Демонстрация Test task (полноэкранный вид)" border="0" width='400px' />
+  <img src="readme_images/testTaskOnly0.gif" alt="Демонстрация Test task (полноэкранный вид)" border="0" width='400px' style="margin-right: 10px;" />
   <img src="readme_images/testTaskOnly1.gif" alt="Демонстрация Test task (мобильный вид)" border="0" width='400px'/>
 </div>
 
-####  2. GreenMind - веб-платформа, объединяющая пользователей и бизнес в целях устойчивого развития и охраны окружающей среды.
+####  3. GreenMind - веб-платформа, объединяющая пользователей и бизнес в целях устойчивого развития и охраны окружающей среды.
 
 <p>Исходный код проекта: <a href="https://github.com/bumbu5571/GreenMind">https://github.com/bumbu5571/GreenMind</a></p>
 
@@ -74,7 +83,7 @@
    <img src="readme_images/pageCompany.gif" alt="Страница компаний GreenMind" border="0" width='400px' />
 </div>
 
-#### 3. Bookworm - Онлайн библиотека
+#### 4. Bookworm - Онлайн библиотека
 
 <p>Исходный код проекта: <a href="https://github.com/bumbu5571/Bookworm">https://github.com/bumbu5571/Bookworm</a></p>
 
@@ -83,9 +92,9 @@
     <img src="readme_images/bookworm1.gif" alt="Анимация создания книги" border="0" width='400px' />
 </div>
 
-#### 4. Three.js, React + TS + Vite / demo weapon tarkov
+#### 5. Three.js, React + TS + Vite / Demo of 3D models of Tarkov
 
 <p>Исходный код проекта: <a href="https://github.com/bumbu5571/demoTarkov/tree/main">https://github.com/bumbu5571/demoTarkov/tree/main</a></p>
 <p>Демо-версия: <a href="https://bumbu5571.github.io/demoTarkov/">https://bumbu5571.github.io/demoTarkov/</a></p>
 
-<img src="https://i.ibb.co/6XKrF4F/image.png" alt="Демонстрация demo weapon tarkov" border="0" width='600px ' />
+<img src="readme_images/tarkov.gif" alt="Демонстрация demo weapon tarkov" border="0" width='600px ' />
