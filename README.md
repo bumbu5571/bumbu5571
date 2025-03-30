@@ -66,8 +66,8 @@
 
 ####  2. Test task UsVKVHtsOVVr
 
-<p>Исходный код проекта: <a href="https://github.com/bumbu5571/test_task/tree/dev">https://github.com/bumbu5571/test_task/tree/dev</a></p>
-<p>Демо-версия: <a href="https://bumbu5571.github.io/test_task/">https://bumbu5571.github.io/test_task/</a></p>
+<p>Исходный код проекта: <a href="https://github.com/bumbu5571/test-task-UsVKVHtsOVVr/tree/dev">https://github.com/bumbu5571/test-task-UsVKVHtsOVVr/tree/dev</a></p>
+<p>Демо-версия: <a href="https://bumbu5571.github.io/test-task-UsVKVHtsOVVr/">https://bumbu5571.github.io/test-task-UsVKVHtsOVVr/</a></p>
 
 <div align="center" width="100%">
   <img src="readme_images/testTaskOnly0.gif" alt="Демонстрация Test task (полноэкранный вид)" border="0" width='400px' style="margin-right: 10px;" />
