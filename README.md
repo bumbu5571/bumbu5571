@@ -64,7 +64,7 @@
   <img src="readme_images/signupPage.gif" alt="Страница регистрации Мега Сад" border="0" width='400px'/>
 </div>
 
-####  2. Test task from Only
+####  2. Test task UsVKVHtsOVVr
 
 <p>Исходный код проекта: <a href="https://github.com/bumbu5571/test_task/tree/dev">https://github.com/bumbu5571/test_task/tree/dev</a></p>
 <p>Демо-версия: <a href="https://bumbu5571.github.io/test_task/">https://bumbu5571.github.io/test_task/</a></p>
