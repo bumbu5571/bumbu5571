@@ -74,7 +74,15 @@
   <img src="readme_images/testTaskOnly1.gif" alt="Демонстрация Test task (мобильный вид)" border="0" width='400px'/>
 </div>
 
-####  3. GreenMind - веб-платформа, объединяющая пользователей и бизнес в целях устойчивого развития и охраны окружающей среды.
+####  3. test-task-UpVKVHtyOVVr
+
+<p>Исходный код проекта: <a href="https://github.com/bumbu5571/test-task-UpVKVHtyOVVr">https://github.com/bumbu5571/test-task-UpVKVHtyOVVr</a></p>
+
+<div align="center" width="100%">
+  <img src="readme_images/test-task-UpVKVHtyOVVr.gif alt="Демонстрация выполненного задания" border="0" width='400px' />
+</div>
+
+####  4. GreenMind - веб-платформа, объединяющая пользователей и бизнес в целях устойчивого развития и охраны окружающей среды.
 
 <p>Исходный код проекта: <a href="https://github.com/bumbu5571/GreenMind">https://github.com/bumbu5571/GreenMind</a></p>
 
@@ -83,7 +91,7 @@
    <img src="readme_images/pageCompany.gif" alt="Страница компаний GreenMind" border="0" width='400px' />
 </div>
 
-#### 4. Bookworm - Онлайн библиотека
+#### 5. Bookworm - Онлайн библиотека
 
 <p>Исходный код проекта: <a href="https://github.com/bumbu5571/Bookworm">https://github.com/bumbu5571/Bookworm</a></p>
 
@@ -92,7 +100,7 @@
     <img src="readme_images/bookworm1.gif" alt="Анимация создания книги" border="0" width='400px' />
 </div>
 
-#### 5. Three.js, React + TS + Vite / Demo of 3D models of Tarkov
+#### 6. Three.js, React + TS + Vite / Demo of 3D models of Tarkov
 
 <p>Исходный код проекта: <a href="https://github.com/bumbu5571/demoTarkov/tree/main">https://github.com/bumbu5571/demoTarkov/tree/main</a></p>
 <p>Демо-версия: <a href="https://bumbu5571.github.io/demoTarkov/">https://bumbu5571.github.io/demoTarkov/</a></p>
