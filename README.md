@@ -79,7 +79,7 @@
 <p>Исходный код проекта: <a href="https://github.com/bumbu5571/test-task-UpVKVHtyOVVr">https://github.com/bumbu5571/test-task-UpVKVHtyOVVr</a></p>
 
 <div align="center" width="100%">
-  <img src="readme_images/test-task-UpVKVHtyOVVr.gif alt="Демонстрация выполненного задания" border="0" width='400px' />
+  <img src="readme_images/test-task-UpVKVHtyOVVr.gif" alt="Демонстрация выполненного задания" border="0" width='400px' />
 </div>
 
 ####  4. GreenMind - веб-платформа, объединяющая пользователей и бизнес в целях устойчивого развития и охраны окружающей среды.
