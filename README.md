@@ -1,6 +1,6 @@
-### My name is Aleksand. I am a frontend developer.
+### My name is Aleksand. I am a Fullstack developer.
 
-Frontend-разработчик с опытом более 1 года. За это время успешно применял React, Next.js, TypeScript, Node.js, Express.js и PostgreSQL для разработки интерактивных и удобных веб-интерфейсов. Обладаю опытом интеграции frontend- и backend-частей.
+Fullstack-разработчик с опытом более 1 года. За это время успешно применял React, Next.js, TypeScript, Node.js, Express.js и PostgreSQL для разработки интерактивных и удобных веб-интерфейсов. Обладаю опытом интеграции frontend- и backend-частей.
 
 В будущем планирую сфокусироваться на frontend-разработке, совершенствуя навыки в React/Next.js.
 
