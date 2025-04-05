@@ -1,5 +1,9 @@
 ### My name is Aleksand. I am a frontend developer.
 
+Frontend-разработчик с опытом более 1 года. За это время успешно применял React, Next.js, TypeScript, Node.js, Express.js и PostgreSQL для разработки интерактивных и удобных веб-интерфейсов. Обладаю опытом интеграции frontend- и backend-частей.
+
+В будущем планирую сфокусироваться на frontend-разработке, совершенствуя навыки в React/Next.js.
+
 <div id="badges">
   <a href="https://t.me/Alexxx5571">
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram Badge" width='70px'/>
